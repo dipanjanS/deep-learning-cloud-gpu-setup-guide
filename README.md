@@ -7,7 +7,7 @@ In this guide, we will look at a structured tutorial towards setting up a cloud 
 
 ## Requirements
 
-✔ An Amazon AWS account<br/>
+✔ An [Amazon AWS account](https://aws.amazon.com)<br/>
 ✔ Some 💲 for paying compute\storage charges<br/>
 ✔ A bit of your precious time 😉<br/>
 
